@@ -1,4 +1,4 @@
-# 📊 DA-AG-010 — Regression & Its Evaluation
+# 📊 Regression & Its Evaluation
 
 This repository contains my solutions for **(Regression & Its Evaluation)** as part of the Data Analytics curriculum.  
 The notebook includes both **theoretical explanations** and **practical coding exercises** using Python, NumPy, Pandas, Scikit-learn, and Statsmodels.
